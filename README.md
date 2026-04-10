@@ -28,8 +28,11 @@ IT Analyst transitioning into Cloud Engineering | AWS Certified Solutions Archit
 
 🏏 [**Howzat**](https://playhowzat.com) — AWS-powered cricket player guessing game. Identify players from their silhouette — built with S3, CloudFront, and Lambda
 
+🌐 [**Portfolio Website**](https://hussainashfaque.com) — Personal portfolio showcasing Cloud Engineering projects, landscape photography, and free iOS wallpapers. Deployed on AWS S3 + CloudFront
+
 ---
 
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussainashfaque)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://hussainashfaque.com)
