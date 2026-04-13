@@ -26,7 +26,7 @@ IT Analyst transitioning into Cloud Engineering | AWS Certified Solutions Archit
 
 🔗 [**AWS Cloud Labs**](https://github.com/nainashee/aws-cloud-labs) — Structured 24-week AWS lab program covering core services, IaC, and automation
 
-🏏 [**Howzat**](https://playhowzat.com) — AWS-powered cricket player guessing game. Identify players from their silhouette —<br>&nbsp;&nbsp;&nbsp;&nbsp;built with S3, CloudFront, and Lambda
+🏏 [**Howzat**](https://playhowzat.com) — AWS-powered cricket player guessing game. Identify players from their silhouette —<br>&nbsp;&nbsp;&nbsp;&nbsp;built with S3, CloudFront, DynamoDB, and Lambda
 
 🌐 [**Portfolio Website**](https://hussainashfaque.com) — Personal portfolio showcasing Cloud Engineering projects, landscape photography, and free iOS wallpapers.<br>&nbsp;&nbsp;&nbsp;&nbsp;Deployed on AWS S3 +                                                                    CloudFront
 
