@@ -1,38 +1,34 @@
-# Hi, I'm Hussain Ashfaque 👋
+# Hi, I'm Hussain 👋
 
-IT Analyst transitioning into Cloud Engineering | AWS Certified Solutions Architect – Associate
+IT Analyst at UC Office of the President, transitioning into cloud engineering.
+AWS Certified Solutions Architect – Associate. Based in the SF Bay Area.
 
----
+I learn by shipping. Every project here is something I built end-to-end —
+not a tutorial follow-along.
 
-## 🔧 What I'm Building
+## 🚀 What I'm shipping right now
 
-- Hands-on AWS lab portfolio (VPC, IAM, EC2, RDS, Terraform, Docker, CI/CD)
-- Automating infrastructure with Terraform and GitHub Actions
-- Python/boto3 scripting for AWS automation
+- 🏏 **[Howzat](https://playhowzat.com)** — Daily cricket player guessing game.
+  Serverless on AWS (Lambda, DynamoDB, Cognito, CloudFront).
+  [Code](https://github.com/nainashee/cricket-zone)
 
----
+- 🏰 **[SandCastle](https://github.com/nainashee/sandcastle)** — Personal AWS
+  dev environment. Terraform-managed, SSM-secured, auto-stop for cost control.
 
-## ☁️ Tech Stack
+- 🤖 **[LaunchPad](https://github.com/nainashee/launchpad)** — AI-powered job
+  search automation platform. 16-week build, in progress.
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🛠 Tech I work with
 
----
+**Cloud:** AWS (Lambda, DynamoDB, API Gateway, Cognito, CloudFront, S3, EC2, VPC, IAM)
+**IaC:** Terraform, CloudFormation
+**Languages:** Python, JavaScript/Node.js, Bash
+**CI/CD:** GitHub Actions
+**Tools:** Docker, Linux, boto3
 
-## 📁 Featured Projects
+## 🎯 What I'm looking for
 
-🔗 [**AWS Cloud Labs**](https://github.com/nainashee/aws-cloud-labs) — Structured 24-week AWS lab program covering core services, IaC, and automation
+Cloud engineering roles where I can keep building real systems —
+especially in government and public sector. Open to remote or SF Bay Area.
 
-🏏 [**Howzat**](https://playhowzat.com) — AWS-powered cricket player guessing game. Identify players from their silhouette —<br>&nbsp;&nbsp;&nbsp;&nbsp;built with S3, CloudFront, DynamoDB, and Lambda
-
-🌐 [**Portfolio Website**](https://hussainashfaque.com) — Personal portfolio showcasing Cloud Engineering projects, landscape photography, and free iOS wallpapers.<br>&nbsp;&nbsp;&nbsp;&nbsp;Deployed on AWS S3 +                                                                    CloudFront
-
----
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussainashfaque)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://hussainashfaque.com)
+📫 [hussainashfaque.com](https://hussainashfaque.com) · [LinkedIn](your-link-here)
