@@ -1,4 +1,4 @@
-☁️ Shipping things to the cloud.
+🏗️ Building real things on AWS.
 
 # Hi, I'm Hussain 👋
 
