@@ -62,15 +62,13 @@ Built with Python/boto3 and IAM role-based access.
 Cloud engineering roles where I can keep building real systems — especially in
 **government and public sector**. Open to remote or SF Bay Area.
 
-If you're hiring or know someone who is, [let's talk](https://www.linkedin.com/in/hussain-ashfaque-12345/).
+If you're hiring or know someone who is, [let's talk](https://www.linkedin.com/in/hussain-ashfaque/).
 
 ---
 
 ## 🌐 Find Me Elsewhere
 
 🔗 **[hussainashfaque.com](https://hussainashfaque.com)** — Portfolio, photography, free iOS wallpapers
-💼 **[LinkedIn](https://www.linkedin.com/in/hussain-ashfaque-12345/)**
+💼 **[LinkedIn](https://www.linkedin.com/in/hussain-ashfaque/)**
 
 ---
-
-![Profile views](https://komarev.com/ghpvc/?username=nainashee&style=for-the-badge&color=orange)
