@@ -5,7 +5,7 @@
 IT Analyst at the University of California, transitioning into cloud engineering.
 AWS Certified Solutions Architect – Associate. Based in the SF Bay Area.
 
-I learn by shipping. Every project here is something I built end-to-end — not a tutorial follow-along.
+I learn by shipping. Every project here is something I built end-to-end.
 
 ---
 
